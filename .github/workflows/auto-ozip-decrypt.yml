@@ -14,9 +14,9 @@ on:
     types: [started]
 
 env:
-  FIRMWARE_LINK: http://mirrorbot.thecloverly.workers.dev/RMX2001_11_OTA_10100270_all_zlni7wXtTA7O_529802e99f1b55f.ozip
-  FIRMWARE_NAME: RMX2001_11_OTA_10100270_all_zlni7wXtTA7O_529802e99f1b55f.ozip
-  FIRMWARE_ZIP_NAME: RMX2001_11_OTA_10100270_all_zlni7wXtTA7O_529802e99f1b55f
+  FIRMWARE_LINK: https://download.c.realme.com/osupdate/RMX2020_11_OTA_0550_all_jDBhI1lDLtqt.ozip
+  FIRMWARE_NAME: RMX2020_11_OTA_0550_all_jDBhI1lDLtqt.ozip
+  FIRMWARE_ZIP_NAME: RMX2020_11_OTA_0550_all_jDBhI1lDLtqt
   TZ: Asia/Kolkata
 
 jobs:
