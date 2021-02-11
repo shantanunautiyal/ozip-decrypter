@@ -14,9 +14,9 @@ on:
     types: [started]
 
 env:
-  FIRMWARE_LINK: https://ghostmirror.hitesh920.workers.dev/RMX2001_11_OTA_10100270_all_zlni7wXtTA7O_529802e99f1b55f.ozip
-  FIRMWARE_NAME: RMX2001_11_OTA_10100270_all_zlni7wXtTA7O_529802e99f1b55f.ozip
-  FIRMWARE_ZIP_NAME: RMX2001_11_OTA_10100270_all_zlni7wXtTA7O_529802e99f1b55f
+  FIRMWARE_LINK: https://ghostmirror.hitesh920.workers.dev/RMX2170PU_11_OTA_11000270_all_NUtnwpAEY3po_8d0001ad722f2.ozip
+  FIRMWARE_NAME: RMX2170PU_11_OTA_11000270_all_NUtnwpAEY3po_8d0001ad722f2.ozip
+  FIRMWARE_ZIP_NAME: RMX2170PU_11_OTA_11000270_all_NUtnwpAEY3po_8d0001ad722f2
   TZ: Asia/Kolkata
 
 jobs:
